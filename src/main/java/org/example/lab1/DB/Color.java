@@ -5,4 +5,3 @@ public enum Color {
     RED,
     BROWN
 }
-
